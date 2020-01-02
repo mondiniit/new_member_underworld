@@ -1,5 +1,5 @@
 
-### Requiriments To Ingress Underworld Squad
+### Requiriments To Ingress SRE Squad
     
     1. Articule una visión estratégica para la unidad de negocios con respecto a los servicios de infraestructura y trabaje con el liderazgo tecnológico para ejecutar esa visión.
 
